@@ -1,6 +1,6 @@
 package kr.taevel.java;
 
-public class dimiBucks {
+public class DimiBucks {
 
     public static void main(String[] args) {
         int average = 1700000;
