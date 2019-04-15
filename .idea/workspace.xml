@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05ec884c-7e36-45b9-a52e-7db311ac711f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/kr/taevel/java/CarPrint1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kr/taevel/java/CarPrint2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kr/taevel/java/CarPrint3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kr/taevel/java/MyFavorite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kr/taevel/java/SimpleGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kr/taevel/java/SnackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kr/taevel/oop/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kr/taevel/oop/Car2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kr/taevel/oop/Car3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kr/taevel/oop/Snack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kr/taevel/oop/IdolGroup.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kr/taevel/java/dimiBucks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kr/taevel/java/DimiBucks.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,41 +16,12 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/kr/taevel/oop/Snack.java">
+        <entry file="file://$PROJECT_DIR$/src/kr/taevel/oop/IdolGroup.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="59" column="29" lean-forward="true" selection-start-line="58" selection-start-column="8" selection-end-line="59" selection-end-column="29" />
-              <folding>
-                <element signature="e#398#399#0" expanded="true" />
-                <element signature="e#425#426#0" expanded="true" />
-                <element signature="e#465#466#0" expanded="true" />
-                <element signature="e#497#498#0" expanded="true" />
-                <element signature="e#531#532#0" expanded="true" />
-                <element signature="e#561#562#0" expanded="true" />
-                <element signature="e#607#608#0" expanded="true" />
-                <element signature="e#645#646#0" expanded="true" />
-                <element signature="e#674#675#0" expanded="true" />
-                <element signature="e#702#703#0" expanded="true" />
-                <element signature="e#741#742#0" expanded="true" />
-                <element signature="e#775#776#0" expanded="true" />
-                <element signature="e#805#806#0" expanded="true" />
-                <element signature="e#834#835#0" expanded="true" />
-                <element signature="e#875#876#0" expanded="true" />
-                <element signature="e#911#912#0" expanded="true" />
-                <element signature="e#1018#1019#0" expanded="true" />
-                <element signature="e#1057#1058#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kr/taevel/java/SnackTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+            <state relative-caret-position="352">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -106,6 +67,7 @@
         <option value="$PROJECT_DIR$/src/kr/taevel/java/MyFavorite.java" />
         <option value="$PROJECT_DIR$/src/kr/taevel/java/SnackTest.java" />
         <option value="$PROJECT_DIR$/src/kr/taevel/oop/Snack.java" />
+        <option value="$PROJECT_DIR$/src/kr/taevel/oop/IdolGroup.java" />
       </list>
     </option>
   </component>
@@ -122,7 +84,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -160,6 +121,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -195,7 +157,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SnackTest">
+  <component name="RunManager" selected="Application.IdolGroup">
     <configuration name="CarPrint2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kr.taevel.java.CarPrint2" />
       <module name="java-dimigo-goorm" />
@@ -222,12 +184,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kr.taevel.java.Main" />
+    <configuration name="IdolGroup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kr.taevel.oop.IdolGroup" />
       <module name="java-dimigo-goorm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kr.taevel.java.*" />
+          <option name="PATTERN" value="kr.taevel.oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -263,11 +225,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IdolGroup" />
         <item itemvalue="Application.SnackTest" />
         <item itemvalue="Application.MyFavorite" />
         <item itemvalue="Application.CarPrint3" />
         <item itemvalue="Application.CarPrint2" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -289,18 +251,19 @@
       <workItem from="1553752374626" duration="1574000" />
       <workItem from="1554077651903" duration="1661000" />
       <workItem from="1554682262414" duration="3059000" />
-      <workItem from="1554963098544" duration="1234000" />
+      <workItem from="1554963098544" duration="1313000" />
+      <workItem from="1555292549765" duration="742000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13559000" />
+    <option name="totallyTimeSpent" value="14380000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="965" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25946277" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26251528" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -309,7 +272,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32760596" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32760596" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -317,7 +280,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32837528" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32760596" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32951945" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -424,17 +387,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/kr/taevel/java/SnackTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/kr/taevel/oop/Snack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="59" column="29" lean-forward="true" selection-start-line="58" selection-start-column="8" selection-end-line="59" selection-end-column="29" />
+        <state relative-caret-position="380">
+          <caret line="58" column="33" selection-start-line="58" selection-start-column="33" selection-end-line="58" selection-end-column="33" />
           <folding>
             <element signature="e#398#399#0" expanded="true" />
             <element signature="e#425#426#0" expanded="true" />
@@ -455,6 +411,20 @@
             <element signature="e#1018#1019#0" expanded="true" />
             <element signature="e#1057#1058#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kr/taevel/java/SnackTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kr/taevel/oop/IdolGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
