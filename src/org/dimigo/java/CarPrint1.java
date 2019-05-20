@@ -1,14 +1,32 @@
-package kr.taevel.java;
+package org.dimigo.java;
 
-import kr.taevel.oop.Car2;
+import org.dimigo.oop.Car;
 
-public class CarPrint2 {
+public class CarPrint1 {
 
     public static void main(String[] args) {
 
-        Car2 carH = new Car2("현대자동차", "제네시스", "검정색", 225, 50000000);
-        Car2 carK = new Car2("기아자동차", "K7", "흰색", 246, 40000000);
-        Car2 carS = new Car2("삼성자동차", "SM7", "회색", 200, 38000000);
+        Car carH = new Car();
+        Car carK = new Car();
+        Car carS = new Car();
+
+        carH.setCompany("현대자동차");
+        carH.setModel("제네시스");
+        carH.setColor("검정색");
+        carH.setMaxSpeed(225);
+        carH.setPrice(50000000);
+
+        carK.setCompany("기아자동차");
+        carK.setModel("K7");
+        carK.setColor("흰색");
+        carK.setMaxSpeed(246);
+        carK.setPrice(40000000);
+
+        carS.setCompany("삼성자동차");
+        carS.setModel("SM7");
+        carS.setColor("회색");
+        carS.setMaxSpeed(200);
+        carS.setPrice(38000000);
 
         System.out.println("<< 자동차 목록 >>");
         System.out.println("제도사명 : " + carH.getCompany());

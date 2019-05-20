@@ -1,14 +1,14 @@
-package kr.taevel.java;
+package org.dimigo.java;
 
-import kr.taevel.oop.Car3;
+import org.dimigo.oop.Car2;
 
-public class CarPrint3 {
+public class CarPrint2 {
 
     public static void main(String[] args) {
 
-        Car3 carH = new Car3("현대자동차", "제네시스", "검정색", 225, 50000000);
-        Car3 carK = new Car3("기아자동차", "K7", "흰색", 246);
-        Car3 carS = new Car3("삼성자동차", "SM7", "회색");
+        Car2 carH = new Car2("현대자동차", "제네시스", "검정색", 225, 50000000);
+        Car2 carK = new Car2("기아자동차", "K7", "흰색", 246, 40000000);
+        Car2 carS = new Car2("삼성자동차", "SM7", "회색", 200, 38000000);
 
         System.out.println("<< 자동차 목록 >>");
         System.out.println("제도사명 : " + carH.getCompany());

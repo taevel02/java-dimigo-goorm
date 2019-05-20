@@ -1,4 +1,4 @@
-package kr.taevel.java;
+package org.dimigo.java;
 
 public class IuProfile {
 

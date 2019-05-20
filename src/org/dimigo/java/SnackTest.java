@@ -1,6 +1,6 @@
-package kr.taevel.java;
+package org.dimigo.java;
 
-import kr.taevel.oop.Snack;
+import org.dimigo.oop.Snack;
 
 public class SnackTest {
 

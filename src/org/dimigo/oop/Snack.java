@@ -1,4 +1,4 @@
-package kr.taevel.oop;
+package org.dimigo.oop;
 
 public class Snack {
 
